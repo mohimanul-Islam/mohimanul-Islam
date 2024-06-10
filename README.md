@@ -37,7 +37,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-
+**Education Background**
+SSC From Gazipur Cantonment Board High School Batch: 2016
+Diploma From MIST Batch: 16-17
+BSC in CSE Uttara University Graduate: 2025
 
 ###
 
