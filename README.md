@@ -37,13 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/mohimanul-Islam/mohimanul-Islam/output/snake.svg" alt="Snake animation" />
 
 ###
 
