@@ -39,7 +39,7 @@
 
 <h2>**Education Background**</h2>
 <h3>SSC From Gazipur Cantonment Board High School Batch: 2016</h3>
-<h3>Diploma From MIST Batch: 16-17</h3>
+<h3>Diploma From MIST CST Batch: 16-17</h3>
 <h3>BSC in CSE Uttara University Graduate: 2025</h3>
 
 ###
