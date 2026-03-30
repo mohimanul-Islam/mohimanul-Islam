@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:0f2137,100:1e3a5f&height=250&section=header&text=Mohimanul%20Islam&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20%26%20WordPress%20Developer&descAlignY=58&descSize=18&descColor=a5f3fc" alt="Mohimanul Islam Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:0f2137,100:1e3a5f&height=200&section=header&text=Mohimanul%20Islam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20%26%20WordPress%20Developer&descAlignY=58&descSize=18&descColor=a5f3fc" alt="Mohimanul Islam Banner" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mohimanul-Islam&label=Profile+Views&color=0e7490&style=for-the-badge)](https://github.com/mohimanul-Islam)
 [![Years of Experience](https://img.shields.io/badge/Experience-5%2B%20Years-0f2137?style=for-the-badge&logo=clock&logoColor=white)](#)
